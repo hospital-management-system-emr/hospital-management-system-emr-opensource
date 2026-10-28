@@ -1,16 +1,22 @@
 <a name="top"></a>
 # Hospital Management System EMR
 
-### Watch the below video to see how Danphe EMR functions.  
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=_PfG1i67uC4" target="_blank">
-    <img src="https://img.youtube.com/vi/_PfG1i67uC4/0.jpg" alt="Hospital Management System EMR" />
-  </a>
-</p>
+## 🎬 Danphe EMR Video Tutorials
 
-<p align="center">
-  ▶️ Click on the image above to have a clear walkthrough of our Hospital Management & EMR System.
-  </p>
+
+### Step-by-Step Lessons
+
+| Lesson | Topic | Watch on YouTube |
+| :---: | --- | --- |
+| **Overview** | General HIMS Flow | <a href="https://youtu.be/_PfG1i67uC4" target="_blank" rel="noopener noreferrer">▶ Watch Overall Flow</a> |
+| **1** | Patient Registration & Appointment Management | <a href="https://youtu.be/-6B5jN9_leA" target="_blank" rel="noopener noreferrer">▶ Watch Lesson 1</a> |
+| **2** | Billing and Pricing | <a href="https://youtu.be/5XNU9XcE4iU" target="_blank" rel="noopener noreferrer">▶ Watch Lesson 2</a> |
+| **3** | Discounts & Price Categories | <a href="https://youtu.be/7yBqvmTSORI" target="_blank" rel="noopener noreferrer">▶ Watch Lesson 3</a> |
+| **4** | ADT and IP Billing | <a href="https://youtu.be/VypbMMdH7Qs" target="_blank" rel="noopener noreferrer">▶ Watch Lesson 4</a> |
+| **5** | Lab Management | <a href="https://youtu.be/DOPYORCWVEg" target="_blank" rel="noopener noreferrer">▶ Watch Lesson 5</a> |
+
+---
+
 <p align="center">
   ▶️ Join our Whatsapp group . <a href="https://chat.whatsapp.com/D9ZafCPqxek79lMmjE6DhY" target="_blank">
     Click here to join
